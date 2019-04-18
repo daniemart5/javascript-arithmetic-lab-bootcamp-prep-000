@@ -30,7 +30,7 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  return ('nonsense!', n)
+  return parseInt('nonsense!', n)
 }
 
 function preserveDecimal(n) {
